@@ -106,8 +106,3 @@ Result: AI Wins
 
 ## 👨‍💻 Author
 **Rajdeep Pal**
-
-If you want, I can also **add a small AI decision-making diagram** to this README showing:  
-**Percept → Update Model → Simulate Future States → Choose Move → Update Model → Act**  
-Do you want me to prepare that diagram so the README looks even more professional?
-```
